@@ -19,6 +19,7 @@
 	ReplayRequired 			1
 
 	DependsOnAppID 			440
+	icon		"resource/icon"
 
 	FileSystem
 	{
