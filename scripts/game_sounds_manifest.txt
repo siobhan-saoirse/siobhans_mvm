@@ -148,5 +148,6 @@ game_sounds_manifest
 	"precache_file"		"scripts/npc_sounds_attackheli_episodic2.txt"
 	"precache_file"		"scripts/npc_sounds_fastzombie_episodic2.txt"
 	"precache_file"		"scripts/game_sounds_addendum_ep2.txt"
+	"precache_file"		"scripts/hl1/game_sounds.txt"
 	
 }

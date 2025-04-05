@@ -69,6 +69,7 @@
 			game			|appid_380|episodic/ep1_pak.vpk
 			game			|appid_420|ep2/ep2_sound_vo_english.vpk
 			game			|appid_420|ep2/ep2_pak.vpk
+			game			|appid_280|hl1/hl1_pak.vpk
 			game				|appid_243750|hl2
 			platform			|appid_243750|platform
 
