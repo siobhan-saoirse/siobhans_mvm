@@ -100,6 +100,48 @@
 	}
 }
 
+"background01"
+{
+	"dsp"	"1"
+
+
+	"playlooping"
+	{
+		"volume"	".08"
+		"pitch"		"100"
+		"wave"		"ambient/levels/caves/cave_crickets_loop1.wav"
+	}
+	"playrandom"
+	{
+		"volume"	"0.45,0.65"
+		"pitch"		"100"
+		"time"		"3.0, 4.0"
+		"rndwave"
+		{
+			"wave"	"ambient/levels/canals/shore1.wav"
+			"wave"	"ambient/levels/canals/shore2.wav"
+			"wave"	"ambient/levels/canals/shore3.wav"
+			"wave"	"ambient/levels/canals/shore4.wav"
+		}
+	}
+
+	"playrandom"
+	{
+		"time"		"5,15"
+		"volume"	"0.2,0.8"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"	"SNDLVL_140db"
+		"rndwave"
+		{
+			"wave"	"ambient/machines/heli_pass1.wav"
+			"wave"	"ambient/machines/aircraft_distant_flyby1.wav"
+			"wave"	"ambient/machines/aircraft_distant_flyby3.wav"
+			"wave"	"ambient/atmosphere/city_skypass1.wav"
+		}
+	}
+}
+
 
 
 
