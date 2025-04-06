@@ -1,6 +1,13 @@
 "chapters"
 {
-	1	"background01"
-	2	"background01"
-	3	"background02"
+	1	"mvm_coaltown"
+	2	"mvm_bigrock"
+	3	"mvm_decoy"
+	4	"mvm_mannworks"
+	5	"mvm_ghost_town"
+	6	"mvm_mannhattan"
+	7	"mvm_rottenburg"
+	8	"background01"
+	9	"background02"
+	10	"mvm_engineerruins"
 }
