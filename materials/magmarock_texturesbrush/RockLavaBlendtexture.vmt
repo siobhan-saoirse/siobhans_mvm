@@ -1,0 +1,5 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/rockwall001forest"
+	"$basetexture2" "nature/underworld_lava001"
+}

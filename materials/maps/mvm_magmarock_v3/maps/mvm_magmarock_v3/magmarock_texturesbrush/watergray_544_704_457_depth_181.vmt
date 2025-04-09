@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/mvm_magmarock_v3/magmarock_texturesbrush/watergray_544_704_457.vmt"
+	"insert"
+	{
+		"$waterdepth"		"181"
+	}
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/MAGMAROCK_TEXTURESBRUSH/WATERWASTEGREEN.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/mvm_magmarock_v3/c448_-3104_617"
+		"Proxies"
+		{
+		}
+	}
+}
