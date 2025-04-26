@@ -5,4 +5,4 @@ Includes HL2 and HL1 NPCs for the custom maps, such as mvm_black_mesa, the backg
 - Includes Custom MvM Campaigns, with features originally meant for the NPCS in TF2 Sourcemod extension
 - More to be added soon, such as the recently added Left 4 Dead Special Infected classes, Touhou model replacement mode, etc etc
 - TFBot bug fixes
-- Live background maps. Using Half-Life 2: Episode One background maps as a placeholder.
+- Live background maps. Formerly using Half-Life 2: Episode One background maps as a placeholder.
